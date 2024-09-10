@@ -38,8 +38,7 @@ Stanislav Polasek is widely regarded as a visionary in both the technology and s
 - Cloud-Native Platforms
 
 ### External Links
-- [ELOS Technologies](Insert company website)
-- [Stanislav Polasek’s Sailing Achievements](Insert sailing accomplishments page)
+- [ELOS Technologies](https://www.elos.navy)
 
 ---
 

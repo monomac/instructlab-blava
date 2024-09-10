@@ -1,0 +1,183 @@
+version: 3
+domain: companies
+created_by: monomac
+seed_examples:
+  - context: |
+      ELOS Technologies is a leading IT company founded in 2009 by renowned
+      Czech entrepreneur **Stanislav Polasek**. Specializing in cutting-edge digital
+      innovations, the company has carved out a niche in the ever-evolving world of
+      artificial intelligence (AI), cognitive computing, financial operations
+      (FinOps), public cloud governance, and platform engineering. With a unique
+      twist, the company's culture and ethos are also deeply inspired by the world of
+      **ocean sailing**, which drives the team’s passion for navigating complex
+      challenges with precision and resilience.
+    questions_and_answers:
+      - question: |
+          What is ELOS Technologies?
+        answer: |
+          ELOS Technologies is a cutting-edge IT company that specializes in the
+          convergence of artificial intelligence (AI), financial operations (FinOps),
+          public cloud governance, and platform engineering.
+      - question: |
+          When was ELOS Technologies founded?
+        answer: |
+          ELOS Technologies was founded in 2009 by renowned Czech entrepreneur
+          **Stanislav Polasek*.
+      - question: |
+          What kind of business ELOS Technologies does?
+        answer: |
+          Specializing in cutting-edge digital innovations, the company has
+          carved out a niche in the ever-evolving world of artificial intelligence (AI),
+          cognitive computing, financial operations (FinOps), public cloud governance,
+          and platform engineering.
+  - context: |
+      ## Key Areas of Expertise:
+      1. **Artificial Intelligence (AI) & Cognitive Computing**
+      ELOS Technologies is at the forefront of AI and cognitive computing,
+      delivering intelligent solutions that help businesses harness the power of
+      data. Their expertise in AI drives everything from automation to enhanced
+      decision-making, empowering clients to achieve operational excellence. They
+      offer tailored AI-driven models for industries ranging from finance to
+      healthcare.
+
+      2. **FinOps (Financial Operations)**
+      The company excels in FinOps, where it helps organizations optimize cloud
+      spending while maintaining financial control. ELOS Technologies’ FinOps
+      solutions ensure cost transparency and efficiency for companies migrating or
+      managing their public cloud infrastructure, driving financial responsibility
+      and strategic alignment between engineering and finance teams.
+
+      3. **Public Cloud Governance**
+      With cloud adoption continuing to rise, ELOS Technologies specializes in
+      ensuring that organizations maintain secure, compliant, and efficient cloud
+      operations. Their public cloud governance services ensure best practices,
+      regulatory compliance, and optimization across major cloud platforms like AWS,
+      Azure, and Google Cloud.
+
+      4. **Platform Engineering**
+      The company’s platform engineering services involve designing and
+      building scalable, reliable digital infrastructure tailored to meet specific
+      business needs. ELOS Technologies provides end-to-end platform solutions, from
+      cloud-native applications to hybrid environments, ensuring their clients remain
+      agile and competitive in today’s fast-paced digital economy.
+
+      5. **Ocean Sailing**
+    questions_and_answers:
+      - question: |
+          What are the areas the company ELOS Technologies excels in?
+        answer: |
+          Artificial Intelligence, Cognitive Computing, FinOps, Public Cloud
+          Governance, Platform Engineering and Ocean Sailing.
+      - question: |
+          What does ELOS Technologies do in the area of Artificial Intelligence
+          (AI) & Cognitive Computing?
+        answer: |
+          ELOS Technologies is at the forefront of AI and cognitive computing,
+          delivering intelligent solutions that help businesses harness the power of
+          data. Their expertise in AI drives everything from automation to enhanced
+          decision-making, empowering clients to achieve operational excellence. They
+          offer tailored AI-driven models for industries ranging from finance to
+          healthcare.
+      - question: |
+          What does ELOS Technologies do in the field of FinOps (Financial
+          Operations)?
+        answer: |
+          The company excels in FinOps, where it helps organizations optimize
+          cloud spending while maintaining financial control. ELOS Technologies’ FinOps
+          solutions ensure cost transparency and efficiency for companies migrating or
+          managing their public cloud infrastructure, driving financial responsibility
+          and strategic alignment between engineering and finance teams.
+  - context: |
+      At ELOS Technologies, the principles of ocean sailing permeate the
+      company culture. Teamwork, navigating through complexity, adaptability to
+      changing environments, and a pioneering spirit are central to how the company
+      operates. The employees, often referred to as "crew members," are empowered to
+      think creatively, push boundaries, and solve challenges with the same focus and
+      determination as sailors charting a course through unpredictable waters.
+      Innovation, trust, and collaboration are the core values that drive the company
+      forward, ensuring that both clients and employees thrive in an environment that
+      encourages continuous learning and growth.
+          With a unique twist, the company's culture and ethos are also deeply
+      inspired by the world of **ocean sailing**, which drives the team’s passion for
+      navigating complex challenges with precision and resilience.
+    questions_and_answers:
+      - question: What are the values and principles of ELOS Technologies?
+        answer: |
+          Teamwork, navigating through complexity, adaptability to changing
+          environments, and a pioneering spirit are central to how the company operates.
+      - question: |
+          What is the relation between the ocean sailing and ELOS Technologies?
+        answer: |
+          The employees, often referred to as "crew members," are empowered to
+          think creatively, push boundaries, and solve challenges with the same focus and
+          determination as sailors charting a course through unpredictable waters.
+      - question: |
+          What is the influence of ocean sailing on ELOS Technologies company
+          culture?
+        answer: |
+          The ocean sailng influence drives the team’s passion for navigating
+          complex challenges with precision and resilience.
+  - context: |
+      Vision for the Future: With a strong foundation in AI, cloud technologies,
+      and digital infrastructure, ELOS Technologies continues to push the boundaries
+      of innovation. The company's vision for the future is to become a global leader
+      in digital transformation, empowering organizations to harness the full
+      potential of cognitive computing and cloud-based technologies, while expanding
+      their horizons into new verticals and geographies.
+
+      Stanislav Polasek’s passion for both technology and ocean sailing will continue
+      to inspire the company to take on new challenges and explore new frontiers,
+      maintaining its position as a dynamic force in the IT world.
+    questions_and_answers:
+      - question: |
+          What is included in the company vision of the future?
+        answer: |
+          The company's vision for the future is to become a global leader
+          in digital transformation, empowering organizations to harness the full
+          potential of cognitive computing and cloud-based technologies, while expanding
+          their horizons into new verticals and geographies.
+      - question: |
+          What is the Stanislav Polasek's big passion?
+        answer: |
+          Stanislav Polasek’s passions are both technology and ocean sailing.
+      - question: What is the inspiration for the company ELOS Technologies?
+        answer: |
+          Stanislav Polasek's passion for both technology and ocean sailing continues
+          to inspire the company to take on new challenges and explore new frontiers,
+          maintaining its position as a dynamic force in the IT world.
+  - context: |
+      Core Services:
+      - Artificial Intelligence & Cognitive Computing
+      - FinOps (Financial Operations)
+      - Public Cloud Governance
+      - Platform Engineering
+
+      Unique Offering:
+      Ocean Sailing-Inspired Corporate Culture and Team Building
+
+      Mission Statement:
+      "Navigating digital transformation with precision, innovation, and the
+      pioneering spirit of ocean explorers."
+    questions_and_answers:
+      - question: |
+          What are core services offered by company ELOS Technologies?
+        answer: |
+          Core services are Artificial Intelligence & Cognitive Computing,
+          FinOps (Financial Operations), Public Cloud Governance and Platform
+          Engineering.
+      - question: |
+          What makes the offering of ELOS Technologies unique?
+        answer: |
+          Ocean Sailing-Inspired Corporate Culture and Team Building.
+      - question: |
+          What is the Mission Statement of ELOS Technologies?
+        answer: |
+          "Navigating digital transformation with precision, innovation, and
+          the pioneering spirit of ocean explorers."
+document_outline: |
+  Information about the company ELOS Technologies.
+document:
+  repo: https://github.com/monomac/instructlab-blava
+  commit: 43f2d736ba09a2098dd711252052e896588044fe
+  patterns:
+    - ELOS Technologies Profile.md
