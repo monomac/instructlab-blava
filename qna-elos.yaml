@@ -178,6 +178,6 @@ document_outline: |
   Information about the company ELOS Technologies.
 document:
   repo: https://github.com/monomac/instructlab-blava
-  commit: 43f2d736ba09a2098dd711252052e896588044fe
+  commit: a003c31777d4ee3dd2ed93c88b5264346f609620
   patterns:
     - ELOS Technologies Profile.md
